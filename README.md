@@ -3,6 +3,7 @@
 ---
 
 ## Download
+　Download Open POTATo from this [GitHub Pages](https://github.com/hkwgc/open-potato).
 　Download Plug-in from ###.
 
 ## Introduction
