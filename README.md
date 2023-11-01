@@ -10,9 +10,16 @@ Download Plug-in from ###.
 　Motion Artifact can significantly influence the quality the recorded optical signals of fNIRS. Therefore, we have developed a plug-in that correct Motion Artifact for Open POTATo. <br>
 
 ## Apps
-### Example 1: Motion artifact detection by standard deviation of heart rate variability
+### Example 1: Motion artifact detection by sobel filter
+![Image 1](docs/example_1.png)
 
-### Example 2: Correction of motion artifact by spline interpolation
+### Example 2: Motion artifact detection by standard deviation of heart rate variability
+
+### Example 3: Baseline shift detection heart rate variability
+![Image 3](docs/example_3.png)
+
+### Example 4: Correction of motion artifact by spline interpolation
+![Image 4](docs/example_4.png)
 
 ## References
 [1] Stephanie et al. (2016), 'Thtorial on platform for optical topography analysis tools', Neurophotonics, Volume 3. <br>
