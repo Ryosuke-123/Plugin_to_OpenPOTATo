@@ -10,6 +10,8 @@ Download Plug-in from ###.
 　Motion Artifact can significantly influence the quality the recorded optical signals of fNIRS. Therefore, we have developed a plug-in that correct Motion Artifact for Open POTATo. <br>
 
 ## Apps
+The following is a quick overview of the apps. Further documentation is available within the apps themselves.
+
 ### Example 1: Motion artifact detection by sobel filter
 ![Image 1](docs/example_1.png)
 
