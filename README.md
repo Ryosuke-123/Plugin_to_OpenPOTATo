@@ -31,3 +31,7 @@
 
 [3] Huang et al. (2022), 'Motion artifact removal and evaluation techiques for functional near-infrared spectroscopy singals: A review', Frontiers in Neuroscinece, Volume 5. <br>
 
+## Author
+Name: Ryosuke Hiyama <br>
+Affiliation: Shibaura Institue of Technology, [Applied Brain Science Laboratory](https://sitabsl.com/) <br>
+E-mail: mf23095@shibaura-it.ac.jp <br>
