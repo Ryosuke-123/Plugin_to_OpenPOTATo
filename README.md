@@ -10,7 +10,7 @@ Download Plug-in from ###.
 　Motion Artifact can significantly influence the quality the recorded optical signals of fNIRS. Therefore, we have developed a plug-in that correct Motion Artifact for Open POTATo. <br>
 
 ## Apps
-# Example 1: Motion artifact detection by standard deviation of heart rate variability
+### Example 1: Motion artifact detection by standard deviation of heart rate variability
 
 # Example 2:
 
