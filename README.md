@@ -1,7 +1,13 @@
-# Plugin_to_OpenPOTATo
-Analysis plug-in for the fNIRS analysis platform "Open POTATo"
+# Motion Artifact Correction Plug-in for "Open POTATo"
 
 ---
 
-## Plugin No.1 "Motion artifact correction using a combination of spline interpolation and Savitzky-Golay Filter"
+## Download
 
+
+## Introduction
+
+
+## References
+[1] F Sholkmann, S Spichtig, T Muehlemann and M Wolf. (2010), 'How to detect and reduce movement artifacts in near-infrared imaging using moving standard deviation and spline interpolation'</by>
+[2] 
