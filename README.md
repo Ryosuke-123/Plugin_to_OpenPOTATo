@@ -10,5 +10,6 @@ Download Plug-in from ###.
 　Motion Artifact can significantly influence the quality the recorded optical signals of fNIRS. Therefore, we have developed a plug-in that correct Motion Artifact for Open POTATo. <br>
 
 ## References
-[1] F Sholkmann, S Spichtig, T Muehlemann and M Wolf. (2010), 'How to detect and reduce movement artifacts in near-infrared imaging using moving standard deviation and spline interpolation', Physiological Measurement, Volume31, pp649-662. <br>
-[2] 
+[1] Stephanie et al. (2016), 'Thtorial on platform for optical topography analysis tools', Neurophotonics, Volume 3. <br>
+
+[2] Sholkmann et al. (2010), 'How to detect and reduce movement artifacts in near-infrared imaging using moving standard deviation and spline interpolation', Physiological Measurement, Volume31, pp649-662. <br>
