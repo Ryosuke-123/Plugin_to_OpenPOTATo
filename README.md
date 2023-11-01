@@ -12,7 +12,7 @@ Download Plug-in from ###.
 ## Apps
 ### Example 1: Motion artifact detection by standard deviation of heart rate variability
 
-# Example 2:
+### Example 2: Correction of motion artifact by spline interpolation
 
 ## References
 [1] Stephanie et al. (2016), 'Thtorial on platform for optical topography analysis tools', Neurophotonics, Volume 3. <br>
