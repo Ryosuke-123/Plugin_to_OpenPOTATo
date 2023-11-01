@@ -27,3 +27,6 @@
 [1] Stephanie et al. (2016), 'Thtorial on platform for optical topography analysis tools', Neurophotonics, Volume 3. <br>
 
 [2] Sholkmann et al. (2010), 'How to detect and reduce movement artifacts in near-infrared imaging using moving standard deviation and spline interpolation', Physiological Measurement, Volume31, pp649-662. <br>
+
+[3] Huang et al. (2022), 'Motion artifact removal and evaluation techiques for functional near-infrared spectroscopy singals: A review', Frontiers in Neuroscinece, Volume 5. <br>
+
