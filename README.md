@@ -3,8 +3,8 @@
 ---
 
 ## Download
-　Download Open POTATo from this [GitHub Pages](https://github.com/hkwgc/open-potato).
-　Download Plug-in from ###.
+1. Download Open POTATo from this [GitHub Pages](https://github.com/hkwgc/open-potato). <br>
+2. Download Plug-in that we developed from ###. <br>
 
 ## Introduction
 　Open POTATo is a platform software that integrates a variety of tools for fNIRS data analysis. Open POTATo performs the analysis by selecting the fNIRS measurement data the setting the analysis method and drawing method. <br>
